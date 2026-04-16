@@ -1,7 +1,10 @@
-streamlit
+openai
+openai-agents
+python-dotenv
 pandas
+numpy
+streamlit
 altair
 scikit-learn
 mlxtend
 openpyxl
-numpy
